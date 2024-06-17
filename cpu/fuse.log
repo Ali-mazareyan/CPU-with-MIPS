@@ -1,0 +1,37 @@
+Running: G:\HDL_Nsb\ISE_Xilinx_Nsb\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/TestBench_isim_beh.exe -prj C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/TestBench_beh.prj work.TestBench work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/O_R.v" into library work
+Analyzing Verilog file "C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/MEM_Dastoorat.v" into library work
+Analyzing Verilog file "C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/I_R.v" into library work
+Analyzing Verilog file "C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/C_U.v" into library work
+Analyzing Verilog file "C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/Cache.v" into library work
+Analyzing Verilog file "C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/A_L_U.v" into library work
+Analyzing Verilog file "C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/AR.v" into library work
+Analyzing Verilog file "C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/Adder.v" into library work
+Analyzing Verilog file "C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/AC_R.v" into library work
+Analyzing Verilog file "C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/Pardazande.v" into library work
+Analyzing Verilog file "C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/TestBench.v" into library work
+Analyzing Verilog file "G:/HDL_Nsb/ISE_Xilinx_Nsb/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module Adder
+Compiling module A_R
+Compiling module MEM_Dastoorat
+Compiling module I_R
+Compiling module AC_R
+Compiling module A_L_U
+Compiling module Cache
+Compiling module O_R
+Compiling module C_U
+Compiling module Pardazande
+Compiling module TestBench
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 12 Verilog Units
+Built simulation executable C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/TestBench_isim_beh.exe
+Fuse Memory Usage: 29128 KB
+Fuse CPU Usage: 921 ms

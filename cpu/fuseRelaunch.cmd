@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/TestBench_isim_beh.exe" -prj "C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/TestBench_beh.prj" "work.TestBench" "work.glbl" 

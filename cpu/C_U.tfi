@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+C_U instance_name (
+    .Clock_Puls(Clock_Puls), 
+    .Reset(Reset), 
+    .IR16(IR16), 
+    .Load_AR(Load_AR), 
+    .Load_IR(Load_IR), 
+    .Load_AC(Load_AC), 
+    .Load_OR(Load_OR), 
+    .S(S), 
+    .Wr(Wr), 
+    .Rd(Rd)
+    );
+
+

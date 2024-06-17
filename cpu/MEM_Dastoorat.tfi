@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+MEM_Dastoorat instance_name (
+    .Reset(Reset), 
+    .AR(AR), 
+    .OUT(OUT)
+    );
+
+

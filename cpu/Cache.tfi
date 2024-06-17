@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+Cache instance_name (
+    .Clock_Puls(Clock_Puls), 
+    .Reset(Reset), 
+    .Adr(Adr), 
+    .Wr(Wr), 
+    .Rd(Rd), 
+    .D_i(D_i), 
+    .D_o(D_o)
+    );
+
+

@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+A_L_U instance_name (
+    .A(A), 
+    .B(B), 
+    .S(S), 
+    .C(C)
+    );
+
+

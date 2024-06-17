@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Pardazande -o C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande/A_L_U.tfi -lib work C:/Users/mohsen/Desktop/4M_T_Pro/Hashtad/Pardazande//A_L_U.v -module A_L_U -template G:/HDL_Nsb/ISE_Xilinx_Nsb/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

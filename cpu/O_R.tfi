@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+O_R instance_name (
+    .Clock_Puls(Clock_Puls), 
+    .Reset(Reset), 
+    .Load(Load), 
+    .O(O), 
+    .OR(OR)
+    );
+
+
